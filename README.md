@@ -13,3 +13,7 @@ Technology Stack
 1.Frontend: React.js, Tailwind CSS
 2.Backend: Node.js, Express.js
 3.Database: MongoDB
+
+Database Transactions
+
+The PayTM Clone project implements MongoDB Transactions to ensure data consistency and reliability. Transactions follow the ACID properties of databases, ensuring that transactions are either fully completed and committed or reverted back in case of issues, thus preventing inconsistencies in the database.
